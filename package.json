@@ -1,6 +1,6 @@
 {
-  "name": "logr",
-  "version": "1.1.0",
+  "name": "em-logr",
+  "version": "1.1.1",
   "description": "Bunyan/Pino Logger instance ready to use",
   "main": "logr.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:danielsan/logr.git"
+    "url": "git@github.com:EveryMundo/em-logr.git"
   },
   "keywords": [
     "bunyan", "pino", "everymundo", "logger"
