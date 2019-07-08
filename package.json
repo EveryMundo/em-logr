@@ -1,6 +1,6 @@
 {
   "name": "em-logr",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Bunyan/Pino Logger instance ready to use",
   "main": "logr.js",
   "scripts": {
